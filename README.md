@@ -1,2 +1,2 @@
 # EnviandoEmailPHP
-formulário simples, só funciona hospedado
+formulário simples
